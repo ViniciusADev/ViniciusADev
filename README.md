@@ -30,8 +30,7 @@
 ### Estatísticas no GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusADev&layout=compact&theme=radial"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ViniciusADev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 </p>
 
 ---
