@@ -1,5 +1,10 @@
----
+<h1 align="center">Olá, eu sou Vínicius 👋</h1>
 
+<p align="center">
+  <em>Olá! Sou estudante de Ciência da Computação gosto de transformar lógica de programação em soluções inteligentes que impactam o dia a dia.</em>
+</p>
+
+---
 ### Sobre Mim
 
 - 👨‍🎓 Cursando **Ciência da Computação**
@@ -32,5 +37,5 @@
 ---
 
 <p align="center">
-  <i>"A simplicidade é o último grau de sofisticação."</i>
+  <i>print("Hello, world"")</i>
 </p>
