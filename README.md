@@ -1,4 +1,7 @@
-<h1 align="center">Olá, eu sou Vínicius 👋</h1>
+> **Vínicius A.** | *Python • C • Web Development • Git*  
+> <sub>🚀 Compilando ideias, construindo algoritmos e desenvolvendo soluções inteligentes.</sub>
+
+---
 
 <p align="center">
   <em>Olá! Sou estudante de Ciência da Computação gosto de transformar lógica de programação em soluções inteligentes que impactam o dia a dia.</em>
@@ -36,5 +39,5 @@
 ---
 
 <p align="center">
-  <i>print("Hello, world"")</i>
+  <i>print("Hello, World!")</i>
 </p>
