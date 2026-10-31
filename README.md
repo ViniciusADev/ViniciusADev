@@ -44,8 +44,7 @@
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ViniciusADev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusADev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=ViniciusADev&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
