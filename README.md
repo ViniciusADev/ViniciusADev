@@ -32,9 +32,7 @@
 
 ### Estatísticas no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ViniciusADev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-</p>
+
 
 ---
 
