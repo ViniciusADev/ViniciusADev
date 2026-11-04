@@ -45,7 +45,7 @@
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=ViniciusADev&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=ViniciusA-Dev&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
